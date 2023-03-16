@@ -1,2 +1,6 @@
 abcd
+<<<<<<< HEAD
 john is good
+=======
+john is bad
+>>>>>>> testing
